@@ -8,4 +8,9 @@
 
 # TO DO 1:
 # Follow the instructions given in the README.md file.
-
+num=input("Please enter 4 digit value ")
+num=int(num)
+if num==1984:
+    print("George Orwell")
+else:
+    print("Not quite right!")
